@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Build/Output directories
+dist/
+.vite/
+
+# Environment variables
+.env
